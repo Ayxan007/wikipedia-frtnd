@@ -1,0 +1,21 @@
+.header {
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: 14px;
+    font-family: sans-serif;
+  }
+}
+.blue {
+    color: blue;
+  }
+.padding {
+  padding-top: 20px;
+}
+.black {
+  color: black;
+}
